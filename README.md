@@ -36,9 +36,9 @@ This dashboard provides an interactive analysis of Bollywood movies, helping use
 
 ## 📂 Repository Contents
 
-- `bollywoodmovies.pbix` – Power BI dashboard
+- `bollywood-movies-dashboard.pbix` – Power BI dashboard
 - `Bollywood_Movies_Dataset_PowerBI.xlsx` – Dataset
-- `Screenshot 2026-08-04 233749.png` – Dashboard preview
+- `Dashboard-preview.png` – Dashboard preview
 
 ---
 
@@ -50,6 +50,32 @@ This dashboard provides an interactive analysis of Bollywood movies, helping use
 - Explore movie performance over time.
 
 ---
+## 📊 Dashboard KPIs
+
+- Total Movies
+- Total Budget
+- Total Box Office
+- Total Profit
+- Average IMDb Rating
+
+
+   ## 📈 Dashboard Visualizations
+
+- Revenue Trend by Year
+- Movies by Genre
+- IMDb Rating by Genre
+- Box Office by Director
+- Budget vs Box Office
+- Movie Performance Table
+  
+## ⭐ Skills Demonstrated
+
+- Data Cleaning
+- Data Modeling
+- DAX Calculations
+- Power Query
+- Data Visualization
+- Dashboard Design
 
 ## 👨‍💻 Author
 
