@@ -36,7 +36,7 @@ This dashboard provides an interactive analysis of Bollywood movies, helping use
 
 ## 📂 Repository Contents
 
-- `bollywood-movies-dashboard.pbix` – Power BI dashboard
+- `Bollywood-PowerBI-Dashboard.pbix` – Power BI dashboard
 - `Bollywood_Movies_Dataset_PowerBI.xlsx` – Dataset
 - `Dashboard-preview.png` – Dashboard preview
 
