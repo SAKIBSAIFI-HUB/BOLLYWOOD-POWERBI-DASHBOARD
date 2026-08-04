@@ -1,2 +1,58 @@
-# BOLLYWOOD-POWERBI-DASHBOARD
-An interactive Power BI dashboard analyzing Bollywood movies using KPIs, charts, maps, and slicers to provide insights into ratings, revenue, genres, and movie performance.
+# 🎬 Bollywood Power BI Dashboard
+
+An interactive Power BI dashboard analyzing Bollywood movie data using KPIs, charts, maps, and slicers to provide valuable business insights.
+
+## 📸 Dashboard Preview
+
+![Dashboard Preview](Screenshot%202026-08-04%20233749.png)
+
+---
+
+## 📌 Project Overview
+
+This dashboard provides an interactive analysis of Bollywood movies, helping users explore trends in ratings, revenue, genres, release years, and overall movie performance.
+
+---
+
+## 🚀 Features
+
+- Interactive slicers
+- KPI Cards
+- Revenue Analysis
+- Rating Analysis
+- Genre Distribution
+- Year-wise Movie Trends
+- Clean & Modern Dashboard Design
+
+---
+
+## 🛠 Tools & Technologies
+
+- Microsoft Power BI
+- Power Query
+- DAX
+
+---
+
+## 📂 Repository Contents
+
+- `bollywoodmovies.pbix` – Power BI dashboard
+- `Bollywood_Movies_Dataset_PowerBI.xlsx` – Dataset
+- `Screenshot 2026-08-04 233749.png` – Dashboard preview
+
+---
+
+## 📈 Key Insights
+
+- Compare movie ratings.
+- Analyze revenue trends.
+- Identify top-performing genres.
+- Explore movie performance over time.
+
+---
+
+## 👨‍💻 Author
+
+**Sakib Saifi**
+
+GitHub: https://github.com/SAKIBSAIFI-HUB
