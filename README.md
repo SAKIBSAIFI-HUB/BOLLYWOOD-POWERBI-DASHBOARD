@@ -4,7 +4,7 @@ An interactive Power BI dashboard analyzing Bollywood movie data using KPIs, cha
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](Screenshot%202026-08-04%20233749.png)
+![Dashboard Preview](Dashboard-Preview.png)
 
 ---
 
